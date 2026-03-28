@@ -21,7 +21,7 @@ A polished Python GUI quiz game built with Tkinter featuring random math and cal
 
 ## 🖥️ Demo
 
-(Add a screenshot here)
+![Game Screenshot](MathGameScreenShot.png)
 
 ---
 
